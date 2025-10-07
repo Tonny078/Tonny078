@@ -52,8 +52,8 @@ I’m exploring:
 
 ---
 
-💬 *Follow my journey as I combine cybersecurity, code, and creativity — one commit at a time.*
+💬 *Follow my journey as I combine cybersecurity, code, and creativity, one commit at a time.*
 
 ---
 
-✨ *Built with passion, caffeine, and a few late-night debugging sessions.* ☕
+✨ *Built with passion, lots of water, greens, and a few late-night debugging sessions.* 
