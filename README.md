@@ -1,3 +1,6 @@
+<img src="https://media.discordapp.net/attachments/1364179822820986932/1425460397263163482/correct4fea8666-e430-4bf4-bd1f-03921809fb24_red_Npic2.png?ex=68e7aaf2&is=68e65972&hm=a9f4e8a86e85b5a24a1f2291c6236a662cad9cf20690674e6ab31b35592e1f10&=&format=webp&quality=lossless" width="850">
+
+
 # 👋 Hi there, I’m **@Tonny_Sluijs**
 
 🚀 **Cyber Security Agent** • 💻 **Full Stack Developer** • 🧠 **AI Enthusiast**
