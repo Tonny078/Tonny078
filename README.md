@@ -13,7 +13,7 @@
 * 🧑‍💻 Fluent in: `Python`, `HTML`, `PHP`, `SQL`, `JavaScript`, `C++`, `Java`, `Swift`, `Kotlin`, `TypeScript`, `Perl`, `Rust`, `Scala`, `VB`, and more
 * 🧠 Currently diving deep into **Neural Networks** and **Machine Learning**
 * 🤖 Experimenting with **Trading Algorithms & Automation Bots**
-* 💞️ *Yes, I’m a coder... and single — like most coders!* 😎
+* 💞️ *Yes, I’m a coder... and single like most coders!* 😎
 
 ---
 
@@ -30,7 +30,7 @@
 ### 🛠️ My Stack
 
 **Languages:**
-`Python` • `C++` • `Java` • `PHP` • `SQL` • `JavaScript` • `Rust` • `Kotlin` • `TypeScript` • `Swift` • `Perl` • `Scala` • `VB`
+`mIRC` • `Python` • `C++` • `Java` • `PHP` • `SQL` • `JavaScript` • `Rust` • `Kotlin` • `TypeScript` • `Swift` • `Perl` • `Scala` • `VB`
 
 **Frameworks & Tools:**
 🧱 Flask • Node.js • React • Django • Bootstrap • TensorFlow • PyTorch • Git
