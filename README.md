@@ -51,7 +51,7 @@ I’m exploring:
 
 ### 📫 Reach Me
 
-🚧 Coming soon - secure contact channel in progress...
+🚧 Add me to discord: Thonny_NL - secure contact channel in progress...
 
 ---
 
