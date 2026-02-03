@@ -33,7 +33,7 @@
 `mIRC` • `Python` • `C++` • `Java` • `PHP` • `SQL` • `JavaScript` • `Rust` • `Kotlin` • `TypeScript` • `Swift` • `Perl` • `Scala` • `VB`
 
 **Frameworks & Tools:**
-🧱 Flask • Node.js • React • Django • Bootstrap • TensorFlow • PyTorch • Git
+🧱 Node.js • Django • Bootstrap • TensorFlow • PyTorch • Git
 
 ---
 
@@ -51,7 +51,7 @@ I’m exploring:
 
 ### 📫 Reach Me
 
-🚧 Coming soon — secure contact channel in progress...
+🚧 Coming soon - secure contact channel in progress...
 
 ---
 
