@@ -10,7 +10,7 @@
 ### 🧩 About Me
 
 * 👀 Passionate about **coding, cybersecurity, and digital defense**
-* 🧑‍💻 Fluent in: `mIRC`, `Python`, `HTML`, `PHP`, `SQL`, `JavaScript`, `C++`, `Java`, `Swift`, `Kotlin`, `TypeScript`, `Perl`, `Rust`, `Scala`, `VB`, and more
+* 🧑‍💻 Fluent in: `mIRC`, `Python`, `HTML`, `PHP`, `SQL`, `JavaScript`, `C++`, `Java`, `Swift`, `Kotlin`, `TypeScript`, `Perl`, `Rust`, `Scala`, `VB`, Art, Photoshop, visualisation and more
 * 🧠 Currently diving deep into **Neural Networks** and **Machine Learning**
 * 🤖 Experimenting with **Trading Algorithms & Automation Bots**
 * 💞️ *Yes, I’m a coder... and single like most coders!* 😎
