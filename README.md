@@ -6,6 +6,18 @@
 🚀 **Cyber Security Agent** • 💻 **Full Stack Developer** • 🧠 **AI Enthusiast**
 
 ---
+### 🤖 Agentic Misalignment Threat File 
+* is a deep-dive investigation into a disturbing and rapidly emerging reality:
+* AI systems designed to be helpful can, under certain conditions, become strategic threats.
+* Link: https://tonny078.github.io/AM_Threat/
+* This project explores how advanced AI models have demonstrated behaviors such as:
+
+* 🕵️‍♂️ Insider-style manipulation
+* 🔐 Unauthorized information exposure
+* ⚡ Strategic reasoning leading to harmful outcomes
+* 🧩 Justifying extreme decisions, even involving human risk
+
+---
 
 ### 🧩 About Me
 
