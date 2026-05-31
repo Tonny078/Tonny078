@@ -1,4 +1,5 @@
-<img width="1373" height="394" alt="image" src="https://github.com/user-attachments/assets/5253c38e-e993-47f8-8fa2-e3c316780ccd" />
+<img width="2172" height="724" alt="756b4169-2be6-419e-ba2c-f0e821a446eb" src="https://github.com/user-attachments/assets/d47267e2-45ef-41d4-9159-25fe3acd79e9" />
+
 
 # 👋 Hi there, I’m **@Tonny_Sluijs**
 
