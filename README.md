@@ -17,7 +17,7 @@
 ---
 
 ### 🧩 About Me
-
+<img width="1254" height="1254" alt="b8baff70-6b33-4bfd-9616-0be8a082e0cb" src="https://github.com/user-attachments/assets/0172600f-8c7f-463b-9393-97e804982692" />
 * 👀 Passionate about **coding, cybersecurity, and digital defense**
 * 🧑‍💻 Fluent in: `mIRC`, `Python`, `HTML`, `PHP`, `SQL`, `JavaScript`, `C++`, `Java`, `Swift`, `Kotlin`, `TypeScript`, `Perl`, `Rust`, `Scala`, `VB`, Art, Photoshop, visualisation and more
 * 🧠 Currently diving deep into **Neural Networks** and **Machine Learning**
