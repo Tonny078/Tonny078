@@ -17,7 +17,7 @@
 ---
 
 ### 🧩 About Me
-<img width="1254" height="1254" alt="565e3ba1-bcba-41da-9f18-7a5cb4586191" src="https://github.com/user-attachments/assets/74768525-1e15-4283-b6fe-a367b67f6212" />
+<img width="1870" height="841" alt="9375fbb9-6bac-4d56-8f65-c97f14f56296" src="https://github.com/user-attachments/assets/353833a9-4552-4314-9e9d-08437d107b4e" />
 * 👀 Passionate about **coding, cybersecurity, and digital defense**
 * 🧑‍💻 Fluent in: `mIRC`, `Python`, `HTML`, `PHP`, `SQL`, `JavaScript`, `C++`, `Java`, `Swift`, `Kotlin`, `TypeScript`, `Perl`, `Rust`, `Scala`, `VB`, Art, Photoshop, visualisation and more
 * 🧠 Currently diving deep into **Neural Networks** and **Machine Learning**
@@ -55,7 +55,7 @@ I’m exploring:
 * 🧠 Neural networks & AI-driven threat detection
 * 🔐 Building secure backends for ethical hacking labs
 * 💹 Smart trading bots & data-driven strategies
-
+<img width="1254" height="1254" alt="565e3ba1-bcba-41da-9f18-7a5cb4586191" src="https://github.com/user-attachments/assets/74768525-1e15-4283-b6fe-a367b67f6212" />
 ---
 
 ### 📫 Reach Me
